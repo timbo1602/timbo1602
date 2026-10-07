@@ -10,7 +10,7 @@ Ich entwickle kleine digitale Projekte, bei denen Gestaltung und Code zusammenko
 
 ### [CTRL + CREATE ARCADE](https://github.com/timbo1602/brand-color-battle)
 
-Ein moderner Spiele- und Quiz-Hub in Vanilla JavaScript. Aktuell spielbar sind das Messequiz **Brand Color Battle** und ein geheimes CMYK-Minispiel; weitere Challenges sind bereits vorbereitet.
+Ein responsiver Spiele-, Quiz- und Lern-Hub in Vanilla JavaScript mit neun vollständigen Games plus geheimem CMYK-Minispiel. Mit dabei sind unter anderem **Brand Color Battle**, Pub Quiz, Type Rush, JS Quest, Impostor und Geo Sprint – inklusive Fair Mode, lokaler Fortschritte und Offline-Unterstützung.
 
 [Arcade öffnen](https://timbo1602.github.io/brand-color-battle/) · [Quellcode ansehen](https://github.com/timbo1602/brand-color-battle)
 
