@@ -8,11 +8,11 @@ Ich entwickle kleine digitale Projekte, bei denen Gestaltung und Code zusammenko
 
 ## Aktuelles Projekt
 
-### [Brand Color Battle](https://github.com/timbo1602/brand-color-battle)
+### [CTRL + CREATE ARCADE](https://github.com/timbo1602/brand-color-battle)
 
-Ein interaktives Farbenquiz rund um Marken, Corporate Colors und Grundlagen der Mediengestaltung.
+Ein moderner Spiele- und Quiz-Hub in Vanilla JavaScript. Aktuell spielbar sind das Messequiz **Brand Color Battle** und ein geheimes CMYK-Minispiel; weitere Challenges sind bereits vorbereitet.
 
-[Quiz öffnen](https://timbo1602.github.io/brand-color-battle/) · [Quellcode ansehen](https://github.com/timbo1602/brand-color-battle)
+[Arcade öffnen](https://timbo1602.github.io/brand-color-battle/) · [Quellcode ansehen](https://github.com/timbo1602/brand-color-battle)
 
 ## Support
 
